@@ -1,7 +1,7 @@
 ## Olá 😄, eu sou a Pedro Henrique, estudante de TI na UFRN.
 
 <a href="https://github.com/pedrohenrique06/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique06&hide=prs,issues&show_icons=true&theme=dracula&title_color=blue&rank_icon=github" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique06&hide=prs,issues&show_icons=true&theme=dracula&title_color=blue&rank_icon=github" />
 </a>
 
 <a href="https://github.com/pedrohenrique06/github-readme-stats">
