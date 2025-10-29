@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/pedrohenrique06/github-readme-stats">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique06&hide=cmake&langs_count=5&layout=donut&theme=dracula&title_color=blue" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique06&hide=cmake&langs_count=5&layout=donut&theme=dracula&title_color=blue&v=2" />
 </a>
 
 <div style="display: inline_block"><br>
