@@ -1,4 +1,4 @@
-## Olá 😄, eu sou o Pedro Henrique, estudante de TI na UFRN.
+## Olá 😄, eu sou o Pedro Henrique, formado em TI pela UFRN.
 
 <a href="https://github.com/pedrohenrique06/github-readme-stats">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique06&hide=prs,issues&show_icons=true&theme=dracula&title_color=blue&rank_icon=github" />
