@@ -8,7 +8,7 @@ Além do desenvolvimento, me descobri um grande entusiasta de gestão e lideran�
 
 ## 🚀 Tecnologias e interesses
 
-* JavaScript
+* JavaScript         
 * TypeScript
 * React
 * HTML & CSS
@@ -16,4 +16,16 @@ Além do desenvolvimento, me descobri um grande entusiasta de gestão e lideran�
 * Java
 * Git & GitHub
 
-Sempre aberto a novos desafios, aprendizado e evolução constante.
+### Sempre aberto a novos desafios, aprendizado e evolução constante.
+
+<div display="flex">
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />        
+</div>
